@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeraimundo)](https://github.com/zeraimundo/github-readme-stats)
 <div>
   <a href="https://github.com/zeraimundo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeraimundo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
